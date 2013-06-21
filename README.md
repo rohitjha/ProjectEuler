@@ -1,9 +1,10 @@
 ProjectEuler
 ============
 
-Efficient solutions to Project Euler (https://projecteuler.net/) problems.
+Efficient programming solutions to Project Euler (https://projecteuler.net/) problems.
 
-Languages in which solutions are provided: Assembly, C, Haskell, Java and Python.
+Programming languages in which solutions are provided: Assembly, C, Haskell, Java and Python.
+More languages may be added later.
 
 
 Assembly
