@@ -31,11 +31,18 @@ The version of Python being used is Python 3.x.
 Related Links
 --------------
 Project Euler problems: https://projecteuler.net/problems
+
 GAS: http://www.gnu.org/software/binutils/
+
 NASM: http://www.nasm.us
+
 GCC: http://gcc.gnu.org
+
 GHC: http://www.haskell.org/ghc/
+
 OpenJDK: http://openjdk.java.net
+
 Python: http://www.python.org
+
 
 For more help, see: http://thecodeaddict.wordpress.com/
