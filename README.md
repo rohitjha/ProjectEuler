@@ -8,7 +8,7 @@ Languages in which solutions are provided: Assembly, C, Haskell, Java and Python
 
 Assembly
 --------
-The assemblers being used are GNU Assembler (GAS) and Netwide Assembler (NASM), version 2.x.
+The assemblers being used are Flat Assembler (FASM), GNU Assembler (GAS) and Netwide Assembler (NASM), version 2.x.
 
 C
 -
@@ -31,6 +31,8 @@ The version of Python being used is Python 3.x.
 Related Links
 --------------
 Project Euler problems: https://projecteuler.net/problems
+
+FASM: http://flatassembler.net
 
 GAS: http://www.gnu.org/software/binutils/
 
