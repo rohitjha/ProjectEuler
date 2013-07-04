@@ -9,11 +9,11 @@ More languages may be added later.
 
 C
 -
-The compiler being used is the one from the GNU Compiler Collection (GCC), version 4.x.
+The compiler being used is the one from the GNU Compiler Collection (GCC), version 4.8.1.
 
 Haskell
 -------
-The compiler being used is the Glasgow Haskell Compiler (GHC), version 7.x.
+The compiler being used is the Glasgow Haskell Compiler (GHC), version 7.6.3.
 
 Java
 ----
@@ -21,7 +21,7 @@ The JDK being used is OpenJDK, version 7.
 
 Python
 ------
-The version of Python being used is Python 3.x.
+The version of Python being used is Python 3.3.2.
 
 
 
