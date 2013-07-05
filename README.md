@@ -36,6 +36,3 @@ GHC: http://www.haskell.org/ghc/
 OpenJDK: http://openjdk.java.net
 
 Python: http://www.python.org
-
-
-For more help, see: http://thecodeaddict.wordpress.com/ or e-mail rohit305jha <at> gmail <dot> com.
