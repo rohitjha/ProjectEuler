@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# PE003.py
+
 '''
 
 Author: Rohit Jha
@@ -11,9 +14,6 @@ What is the largest prime factor of the number 600851475143 ?
 
 '''
 
-#! /usr/bin/env python
-# PE003.py
-
 from math import sqrt
 
 def factorize(n):
@@ -21,7 +21,7 @@ def factorize(n):
     while p <= sqrt(np):
         if np % p == 0:
             response = p
-            np /= p
+            np //= p
         else:
             if p > 2: p += 2
             else: p += 1

@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# PE001.py
+
 '''
 
 Author: Rohit Jha
@@ -11,21 +14,13 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 '''
 
-#! /usr/bin/env python
-# PE001.py
-
 def sumDivisibleBy(n):
 	p = 999 / n
-	return n * (p * (p + 1)) // 2
+	return n * (p * (p + 1)) / 2
 
-def main():
-	print(int(sumDivisibleBy(3) + sumDivisibleBy(5) - sumDivisibleBy(15)))
-
-if __name__ == "__main__":
-	main()
+print(int(sumDivisibleBy(3) + sumDivisibleBy(5) - sumDivisibleBy(15)))
 
 '''
-$ time python PE001.py
 233366
 
 real	0m0.041s

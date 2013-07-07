@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# PE002.py
+
 '''
 
 Author: Rohit Jha
@@ -14,9 +17,6 @@ By considering the terms in the Fibonacci sequence whose values do not exceed
 four million, find the sum of the even-valued terms.
 
 '''
-
-#! /usr/bin/env python
-# PE002.py
 
 limit = 4000000
 x, y, sum = 1, 1, 0

@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# PE004.py
+
 '''
 
 Author: Rohit Jha
@@ -10,9 +13,6 @@ the product of two 2-digit numbers is 9009 = 91 x 99.
 
 Find the largest palindrome made from the product of two 3-digit numbers.
 '''
-
-#! /usr/bin/env python
-# PE004.py
 
 largest = 0
 
