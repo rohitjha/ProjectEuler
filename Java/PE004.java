@@ -45,5 +45,5 @@ class PE004
 
 real	0m0.274s
 user	0m0.333s
-sys		0m0.040s
+sys	0m0.040s
 */

@@ -22,5 +22,5 @@ main = putStrLn $ show $ (sumDiv 3 999) + (sumDiv 5 999) - (sumDiv 15 999)
 
 real	0m0.002s
 user	0m0.000s
-sys		0m0.000s
+sys	0m0.000s
 -}

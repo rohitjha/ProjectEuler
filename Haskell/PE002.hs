@@ -24,5 +24,5 @@ main = putStrLn $ show $ sum [ x | x <- takeWhile (<= 4000000) fibs, even x]
 
 real	0m0.003s
 user	0m0.000s
-sys		0m0.000s
+sys	0m0.000s
 -}

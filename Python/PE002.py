@@ -32,5 +32,5 @@ print(sum)
 
 real	0m0.043s
 user	0m0.040s
-sys		0m0.000s
+sys	0m0.000s
 '''

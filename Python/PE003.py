@@ -37,5 +37,5 @@ print (int(factorize(num)))
 
 real	0m0.042s
 user	0m0.030s
-sys		0m0.010s
+sys	0m0.010s
 '''

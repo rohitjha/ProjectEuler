@@ -19,5 +19,5 @@ main = putStrLn $ show $ maximum [x | y <- [999,998..100], z <- [999,998..y], le
 
 real	0m0.081s
 user	0m0.077s
-sys		0m0.003s
+sys	0m0.003s
 -}

@@ -27,5 +27,5 @@ main = putStrLn $ show $ last (primeFactors 600851475143)
 
 real	0m0.004s
 user	0m0.003s
-sys		0m0.000s
+sys	0m0.000s
 -}

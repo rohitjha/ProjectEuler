@@ -51,5 +51,5 @@ int main() {
 
 real	0m0.017s
 user	0m0.017s
-sys		0m0.000s
+sys	0m0.000s
 */

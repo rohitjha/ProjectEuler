@@ -25,5 +25,5 @@ print(int(sumDivisibleBy(3) + sumDivisibleBy(5) - sumDivisibleBy(15)))
 
 real	0m0.041s
 user	0m0.037s
-sys		0m0.003s
+sys	0m0.003s
 '''

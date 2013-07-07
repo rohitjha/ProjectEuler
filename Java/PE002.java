@@ -39,5 +39,5 @@ class PE002
 
 real	0m0.093s
 user	0m0.090s
-sys		0m0.003s
+sys	0m0.003s
 */

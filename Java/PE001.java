@@ -27,5 +27,5 @@ class PE001 {
 
 real	0m0.090s
 user	0m0.073s
-sys		0m0.017s
+sys	0m0.017s
 */
