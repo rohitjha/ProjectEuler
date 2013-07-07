@@ -5,6 +5,7 @@ Efficient programming solutions to Project Euler (https://projecteuler.net/) pro
 
 Programming languages in which solutions are provided: C, Haskell, Java and Python. More languages may be added later.
 
+
 The programs were executed on a machine with the following configuration:
 
 Processor: Intel Core i3-370M (2.4GHz)
