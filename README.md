@@ -8,7 +8,9 @@ Programming languages in which solutions are provided: C, Haskell, Java and Pyth
 The programs were executed on a machine with the following configuration:
 
 Processor: Intel Core i3-370M (2.4GHz)
+
 Memory   : 4 GB
+
 OS       : Arch Linux x86-64
 
 
