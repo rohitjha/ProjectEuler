@@ -37,6 +37,8 @@ The version of Python being used is Python 3.3.2.
 
 Related Links
 --------------
+For help about the algorithms and logic used, visit http://thecodeaddict.wordpress.com
+
 Project Euler problems: https://projecteuler.net/problems
 
 GCC: http://gcc.gnu.org
