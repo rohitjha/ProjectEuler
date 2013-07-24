@@ -35,6 +35,12 @@ The version of Python being used is Python 3.3.2.
 
 
 
+Help
+----
+E-mail: rohit305jha@gmail.com
+
+
+
 Related Links
 --------------
 For help about the algorithms and logic used, visit http://thecodeaddict.wordpress.com
