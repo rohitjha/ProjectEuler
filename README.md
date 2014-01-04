@@ -29,7 +29,7 @@ C
 -
 The compiler used is the GNU Compiler Collection (GCC), version 4.8.2.
 
-C$
+C#
 --
 The compiler used is mcs - the Mono C# Compiler, version 3.2.3.0.
 
