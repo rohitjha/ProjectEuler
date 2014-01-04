@@ -67,7 +67,7 @@ The compiler used is CLISP (Common LISP), version 2.49.
 
 MPL
 ---
-The version of MPL used is 0.2.
+The version of MPL used is 0.2.1.
 
 OCaml
 -----
@@ -115,10 +115,46 @@ For help about the algorithms and logic used, visit http://thecodeaddict.wordpre
 
 Project Euler problems: https://projecteuler.net/problems
 
+GNAT: http://libre.adacore.com/
+
+NASM: http://nasm.us/
+
+QtSPIM: http://spimsimulator.sourceforge.net/
+
 GCC: http://gcc.gnu.org
+
+Mono: http://www.mono-project.com/Main_Page
+
+Clojure: http://clojure.org/
+
+D: http://dlang.org/
+
+Erlang: http://www.erlang.org/
+
+Gfortran: http://gcc.gnu.org/wiki/GFortran
+
+Groovy: http://groovy.codehaus.org/
 
 GHC: http://www.haskell.org/ghc/
 
 OpenJDK: http://openjdk.java.net
 
+CLisp: http://www.clisp.org/
+
+MPL: https://github.com/rohitjha/MPL
+
+OCaml: http://ocaml.org/
+
+Free Pascal: http://www.freepascal.org/
+
+Perl: http://www.perl.org/
+
 Python: http://www.python.org
+
+Ruby: https://www.ruby-lang.org/
+
+Scala: http://www.scala-lang.org/
+
+Guile: http://www.gnu.org/software/guile/
+
+Tcl: http://www.tcl.tk/
