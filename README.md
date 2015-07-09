@@ -3,7 +3,7 @@ ProjectEuler
 
 Efficient programming solutions to Project Euler (https://projecteuler.net/) problems.
 
-Programming languages in which solutions are provided: Ada, Assembly, C, C#, Clojure, D, Erlang, Fortran, Groovy, Haskell, Java, Lisp, MPL, OCaml, Pascal, Perl, Python, Ruby, Scala, Scheme and Tcl. More languages may be added later.
+Programming languages in which solutions are provided: C, Haskell, Java, MPL, Python. More languages may be added later.
 
 
 The programs were executed on a machine with the following configuration:
@@ -20,6 +20,10 @@ The assemblers, compilers, interpreters and run-time environments used are liste
 C
 -
 The compiler used is the GNU Compiler Collection (GCC), version 5.1.0.
+
+Go
+--
+The compiler used is GCC Go, version 5.1.0.
 
 Haskell
 -------
